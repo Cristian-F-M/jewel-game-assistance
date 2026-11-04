@@ -1,0 +1,63 @@
+{
+  "n": 8,
+  "grid": [
+    62,
+    692,
+    962,
+    962
+  ],
+  "slots": [
+    [
+      82,
+      1759,
+      312,
+      414
+    ],
+    [
+      398,
+      1763,
+      312,
+      410
+    ],
+    [
+      711,
+      1763,
+      281,
+      406
+    ]
+  ],
+  "piece_cell": 62.0,
+  "empty": [
+    [
+      36.0,
+      39.0,
+      61.0
+    ],
+    [
+      36.0,
+      39.0,
+      61.0
+    ]
+  ],
+  "thr": 45.0,
+  "thr_piece": 30.0,
+  "drag_dx": 3.7,
+  "drag_dy": -517.5,
+  "drag_ax": "center",
+  "drag_ay": "center",
+  "grab": "centro de la pieza",
+  "ms": 400,
+  "pause": 0.6,
+  "wait": 1.8,
+  "lift": 0.0,
+  "opts": {
+    "detect": true,
+    "step": false,
+    "interval": 0.1,
+    "recalc": true,
+    "reuse": true,
+    "drag": "motionevent",
+    "grab": "centro de la pieza"
+  },
+  "serial": ""
+}
